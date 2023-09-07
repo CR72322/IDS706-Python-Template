@@ -3,25 +3,7 @@
 - IDS706 Mini Project 1 Template
 - Created by Yilin Yang
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
-
-Things included are:
-
-* `Makefile`
-
-* `Pytest`
-
-* `pandas`
-
-* `Pylint`
-
-* `Dockerfile`
-
-* `GitHub copilot`
-
-* `jupyter` and `ipython` 
-
-* A base set of libraries for devops and web
-
-* `githubactions` 
-
+## How to use
+- Clone this repo
+- Create a new repo on your github account
+- Change the remote url to your new repo
